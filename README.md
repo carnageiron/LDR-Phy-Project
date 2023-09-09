@@ -7,8 +7,6 @@ Project is officially completed and closed off for further development from 9th 
 
 # LDR-Phy-Project
 
-![Project Logo](Screenshot 2023-09-09 191621.png)
-
 
 ## Table of Contents
 
